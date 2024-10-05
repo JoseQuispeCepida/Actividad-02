@@ -28,7 +28,7 @@ public class Controlador {
         Date fechaNacimiento = vista.getFechaNacimiento();
 
         if (codigo.isEmpty() || nombre.isEmpty() || apellido.isEmpty() || fechaNacimiento == null) {
-            System.out.println("Completar todos los campos");
+            System.out.println("Completar todos los camposs");
             return;
         }
 
