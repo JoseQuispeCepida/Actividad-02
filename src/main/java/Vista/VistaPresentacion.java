@@ -3,7 +3,6 @@ package Vista;
 
 import Controlador.Controlador;
 import Modelo.PersonaArray;
-import java.text.SimpleDateFormat;
 import java.util.Date;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
